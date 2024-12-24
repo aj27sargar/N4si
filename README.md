@@ -12,7 +12,7 @@
 <h3 align="left">🌟 About Me:</h3>
 <p align="left">
 - 🔭 I’m currently working on <strong>Portfolio Website</strong>.<br>
-- 🌱 I’m learning <strong>Blockchain Development</strong>.<br>
+- 🌱 I’m learning <strong>MERN Development</strong>.<br>
 - 👨‍💻 All of my projects are available at <a href="https://github.com/aj27sargar">My GitHub Profile</a>.<br>
 - 💬 Ask me about <strong>React, Node.js, MongoDB, and Flutter</strong>.<br>
 - 📫 How to reach me: <strong>ajitsargar@kccemsr.edu.in</strong>.<br>
