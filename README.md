@@ -77,9 +77,15 @@
 
 ---
 
-
 <h3 align="left">🌐 Interests:</h3>
 - Web Development (MERN Stack)<br>
 - Artificial Intelligence and Machine Learning<br>
 - Blockchain Development and Decentralized Applications<br>
 - Problem Solving and Competitive Programming<br>
+
+---
+
+<h3 align="left">🌍 Check Out My Portfolio:</h3>
+<p align="left">
+  Visit my portfolio at: <a href="https://my-portfolio-git-master-ajits-projects-d2089184.vercel.app" target="_blank">my-portfolio-git-master-ajits-projects-d2089184.vercel.app</a>
+</p>
